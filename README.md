@@ -2,10 +2,10 @@
 F1Tenth Algorithm testing
 
 Here are the commands to setup f1tenthgym: 
-python --version
-cd desktop/hw/f1testing
-brew install pyenv
-brew install pyenv-virtualenv
+python --version 
+cd desktop/hw/f1testing 
+brew install pyenv 
+brew install pyenv-virtualenv 
 pyenv install 3.9.18
 pyenv virtualenv 3.9.18 gym_env
 eval "$(pyenv init -)"
