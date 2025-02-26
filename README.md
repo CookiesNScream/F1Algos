@@ -16,8 +16,10 @@ pyenv virtualenvs |
 cd f1tenth_gym | 
 cd examples | 
 cd .. | 
-pip install --upgrade pip | 
+pip install --upgrade pip 
+
 _____________
+
 mkdir f1new | 
 cd f1new | 
 pyenv local 3.9.18 | 
