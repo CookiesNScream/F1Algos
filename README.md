@@ -36,3 +36,4 @@ pip install -e . |
 cd examples | 
 pip3 install pyglet==1.5.20 | 
 python3 waypoint_follow.py 
+
